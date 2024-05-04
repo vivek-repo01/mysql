@@ -1,4 +1,5 @@
 # https://github.com/docker-library/mysql
+#Added a new line#
 
 ## Maintained by: [the Docker Community and the MySQL Team](https://github.com/docker-library/mysql)
 
